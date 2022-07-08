@@ -197,6 +197,10 @@ export default function Mint() {
                       />
                     </div>
                     <div className="d-flex justify-content-center text-light mt-3 mb-0 fs-5">
+                      <span className="font-1">Model: </span>&nbsp; &nbsp;
+                      <span className="font-2">{miners[index].minerType}</span>
+                    </div>
+                    <div className="d-flex justify-content-center text-light mt-3 mb-0 fs-5">
                       <span className="font-1">Hashrate: </span>&nbsp; &nbsp;
                       <span className="font-2">
                         {miners[index].hashrate} Th/s

@@ -130,7 +130,7 @@ export default function NavBar(props) {
               <div className="d-flex align-items-center nav-bar-right">
                 <div className="me-2">{renderButton}</div>
                 <div className="d-flex">
-                  <a href="https://www.instagram.com/koryptoblockchain/?hl=en">
+                  <a href="https://www.instagram.com/korblockchain/">
                     <img
                       src="images/instagram.png"
                       alt="instagram link"

@@ -62,10 +62,10 @@ export default function AboutUs() {
               className="img-fluid profile"
             />
           </div>
-          <div className="text-center mt-3">Nick Mast</div>
+          <div className="text-center mt-3">Benjamin Adamson</div>
           <div className="text-center mt-3">CTO</div>
           <div className="text-center mt-3">
-            <a href="https://www.linkedin.com/in/nicholas-mast-31574b183/">
+            <a href="https://www.linkedin.com/in/benjamin-adamson-5a084a242/">
               LinkedIn
             </a>
           </div>

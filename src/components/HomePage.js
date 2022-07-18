@@ -31,7 +31,7 @@ export default function HomePage() {
           controls={isiOS ? true : false}
           muted
           loop
-          src="video/Futuristic_HiTech_Intro_1080p.mp4"
+          src="video/KORDAPPIntro.mp4"
           className="w-100"
         />
       </div>

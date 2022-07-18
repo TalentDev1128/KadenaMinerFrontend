@@ -52,7 +52,7 @@ export default function NavBar(props) {
           variant="primary"
           size="lg"
           className="connect-wallet-btn"
-          onClick={() => connect(injected)}
+          // onClick={() => connect(injected)}
         >
           Connect Wallet
         </Button>
@@ -105,12 +105,12 @@ export default function NavBar(props) {
                   <Nav.Link href="#roadmap" className="text-dark">
                     ROADMAP
                   </Nav.Link>
-                  <Nav.Link href="/korklub" className="text-dark">
+                  {/* <Nav.Link href="/korklub" className="text-dark">
                     KORKlub
-                  </Nav.Link>
-                  <Nav.Link href="/howto" className="text-dark">
+                  </Nav.Link> */}
+                  {/* <Nav.Link href="/howto" className="text-dark">
                     HOWTO
-                  </Nav.Link>
+                  </Nav.Link> */}
                   <Nav.Link
                     href="pdf/Whitepaper.pdf"
                     className="text-dark"

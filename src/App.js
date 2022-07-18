@@ -36,7 +36,7 @@ function App() {
               </div>
             }
           />
-          <Route
+          {/* <Route
             path="/mint"
             element={
               <div className="background-gray font-orbitron p-075">
@@ -53,15 +53,15 @@ function App() {
                 <KorKlub />
               </div>
             }
-          />
-          <Route
+          /> */}
+          {/* <Route
             path="/howto"
             element={
               <div className="background-gray font-orbitron p-075">
                 <HowTo />
               </div>
             }
-          />
+          /> */}
         </Routes>
       </Router>
     </Web3ReactProvider>

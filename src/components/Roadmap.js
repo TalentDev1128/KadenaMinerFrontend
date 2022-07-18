@@ -24,7 +24,7 @@ export default function Roadmap() {
           <div>
             <ul>
               <li>Private sale</li>
-              <li>location setup 50+ Miners</li>
+              <li>First location setup 50+ Miners</li>
               <li>Social media (Instagram, linkedin, Discord, Tiktok)</li>
               <li>DAPP development</li>
             </ul>
@@ -39,12 +39,11 @@ export default function Roadmap() {
           <h3 className="vertical-timeline-element-title">Phase 2</h3>
           <div>
             <ul>
-              <li>Smart Contract Audit</li>
-              <li>Public sale</li>
-              <li>Second location setup 450 Miners</li>
-              <li>Overclocking Firmware, Immersion cooling setup</li>
-              <li>Minermen NFT Collection</li>
-              <li>Credit/Debit Card integration</li>
+              <li>Public sale 9/5/22</li>
+              <li>Second location setup ~450 Miners</li>
+              <li>Overclocking Firmware</li>
+              <li>Immersion cooling setup</li>
+              <li>Launch DAPP on Kadena</li>
             </ul>
           </div>
         </VerticalTimelineElement>
@@ -58,8 +57,7 @@ export default function Roadmap() {
           <div>
             <ul>
               <li>Renewable energy: Solar</li>
-              <li>DEFI project</li>
-              <li>Launch DAPP on Kadena</li>
+              <li>Credit/Debit Card integration</li>
             </ul>
           </div>
         </VerticalTimelineElement>
@@ -70,7 +68,13 @@ export default function Roadmap() {
           icon={<StarIcon />}
         >
           <h3 className="vertical-timeline-element-title">Phase 4</h3>
-          <p>To be announced</p>
+          <div>
+            <ul>
+              <li>Immersion cooling hosting</li>
+              <li>Trading fund</li>
+              <li>Maintenance Hub</li>
+            </ul>
+          </div>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           iconStyle={{ background: "rgb(16, 204, 82)", color: "#fff" }}

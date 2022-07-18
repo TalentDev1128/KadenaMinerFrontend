@@ -31,7 +31,7 @@ export default function IntroVideo() {
           controls={isiOS ? true : false}
           muted
           loop
-          src="video/Tech_Activation_Logo_1080p.mp4"
+          src="video/Tech_Activation_Logo_1080p1.mp4"
           className="w-100"
         />
       </div>
